@@ -1,0 +1,5 @@
+Here is a brief overview of all files and folder in this .zip file:
+   1. Index.csv: It has a list of (pseudo) users' name and all names of their registration and verification files.
+   2. all_DACRRData.csv: It has all registration data (merge all registration data into a single file).
+   3. all_DACVData: It has all verification data (merge all verification data into a single file).
+   4. data (folder): It holds all profiles collected in both registration and verification phase.
